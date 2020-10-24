@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Jo",
+        "address":"Plmr"
+    },
+    {
+        "id":2,
+        "name":"Mini",
+        "address":"Ctr"
+    },
+    {
+        "id":3,
+        "name":"Lak",
+        "address":"Rct"
+    },
+    {
+        "id":4,
+        "name":"Sree",
+        "address":"Apt"
+    }
+]
