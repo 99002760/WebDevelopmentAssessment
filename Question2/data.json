@@ -1,0 +1,22 @@
+[
+    {
+        "sid":1,
+        "sname":"Jo",
+        "saddress":"Plmr"
+    },
+    {
+        "sid":2,
+        "sname":"Mini",
+        "saddress":"Ctr"
+    },
+    {
+        "sid":3,
+        "sname":"Lak",
+        "saddress":"Rct"
+    },
+    {
+        "sid":4,
+        "sname":"Sree",
+        "saddress":"Apt"
+    }
+]
